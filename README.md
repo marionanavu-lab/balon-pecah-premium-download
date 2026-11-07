@@ -16,7 +16,7 @@ Aplikasi ini bisa dipasang siapa saja.
 
 | | Tanpa langganan | Premium |
 |---|---|---|
-| Waktu main | 1 menit per hari | Sepuasnya |
+| Jatah main | Mode Bebas dan Mode Bocil masing-masing 3 kali per hari | Sepuasnya |
 | Mode Bebas dan Mode Bocil | Ya | Ya |
 | Mode Bos (Bos Sawit) | Tidak | Ya |
 | Main Berdua | Tidak | Ya |

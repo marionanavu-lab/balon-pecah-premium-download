@@ -1,7 +1,7 @@
 ## Balon Pecah Premium v1.5.0: rilis pertama versi Premium
 
 ### Fitur Premium
-- **Main sepuasnya.** Tanpa Premium, waktu main 1 menit per hari.
+- **Main sepuasnya.** Tanpa Premium, Mode Bebas dan Mode Bocil masing-masing bisa dimainkan 3 kali per hari.
 - **Mode Bos: Bos Sawit.** Bos tidak boleh disentuh. Pukul balik pelurunya dengan lengan bawah, atau tendang dengan kaki (posisi seluruh badan), supaya pelurunya mengenai bos. Jongkok saat ia menyeruduk!
 - **Main Berdua.** Dua orang di depan satu kamera dengan skor masing-masing.
 - **Progres latihan.** Program 7 hari, grafik kalori, dan hari beruntun.
