@@ -21,7 +21,7 @@ Aplikasi ini bisa dipasang siapa saja.
 | Mode Bos (Bos Sawit) | Tidak | Ya |
 | Main Berdua | Tidak | Ya |
 | Progres latihan (program 7 hari, statistik) | Tidak | Ya |
-| Hentikan waktu | Tidak | Ya |
+| Hentikan waktu (Mode Bebas) dan Tangan api (Mode Bos) | Tidak | Ya |
 | Musik latar | Tidak | Ya |
 
 **Harga Premium:** Rp 10.000 per bulan, Rp 25.000 per 3 bulan, atau Rp 100.000 per 12 bulan.

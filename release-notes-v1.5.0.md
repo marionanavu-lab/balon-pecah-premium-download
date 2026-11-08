@@ -5,7 +5,8 @@
 - **Mode Bos: Bos Sawit.** Bos tidak boleh disentuh. Pukul balik pelurunya dengan lengan bawah, atau tendang dengan kaki (posisi seluruh badan), supaya pelurunya mengenai bos. Jongkok saat ia menyeruduk! Setelah 2 kali ditangkis, bos marah dan menembak peluru spesial: berduri (menunduk) atau lambung (geser dari tanda merah).
 - **Main Berdua.** Dua orang di depan satu kamera dengan skor masing-masing.
 - **Progres latihan.** Program 7 hari, grafik kalori, dan hari beruntun.
-- **Hentikan waktu.** Ambil jam pasir, lalu silangkan tangan di dada: semua benda diam selama 7 detik.
+- **Tangan api (Mode Bos).** Setiap 5 balon pecah muncul tangan api: semua serangan bos melambat 8 detik, peluru yang tersentuh tangan terbakar, dan satu pukulan api memberi darah bos −3. Saat sekarat, bos memanggil bola duri dari atas.
+- **Hentikan waktu (Mode Bebas).** Ambil jam pasir, lalu silangkan tangan di dada: semua benda diam selama 7 detik.
 - **Musik latar** yang ceria untuk keluarga.
 
 ### Unduh
