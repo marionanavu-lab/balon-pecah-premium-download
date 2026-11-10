@@ -3,7 +3,7 @@
 ### Fitur Premium
 - **Main sepuasnya.** Tanpa Premium, Mode Bebas dan Mode Bocil masing-masing bisa dimainkan 3 kali per hari.
 - **Mode Bos: Bos Sawit.** Bos tidak boleh disentuh. Pukul balik pelurunya dengan lengan bawah, atau tendang dengan kaki (posisi seluruh badan), supaya pelurunya mengenai bos. Jongkok saat ia menyeruduk! Setelah 2 kali ditangkis, bos marah dan menembak peluru spesial: berduri (menunduk) atau lambung (geser dari tanda merah).
-- **Main Berdua.** Dua orang di depan satu kamera, 3 babak: Rebutan, Warna Sendiri (pecahkan balon warnamu), dan Kacau (ada bom). Tos berdua di Balon Kompak untuk bonus, dan saling iseng dengan item es (lawan membeku) dan magnet (balon tertarik ke arahmu).
+- **Main Berdua.** Dua orang di depan satu kamera, 3 babak: Rebutan, Warna Sendiri (pecahkan balon warnamu), dan Bom Panas (bom bersumbu 5 detik yang dipukul atau ditendang ke sisi lawan sebelum meledak). Tos berdua di Balon Kompak untuk bonus, dan saling iseng dengan item es (lawan membeku) dan magnet (balon tertarik ke arahmu).
 - **Progres latihan.** Program 7 hari, grafik kalori, dan hari beruntun.
 - **Tangan api (Mode Bos).** Pecahkan balon (5, bertambah tiap level bos) untuk memunculkan tangan api: semua serangan bos melambat 8 detik, peluru yang tersentuh tangan terbakar, dan satu pukulan api memberi setengah darah bos. Saat sekarat, bos memanggil bola duri dari atas.
 - **Hentikan waktu (Mode Bebas).** Ambil jam pasir, lalu silangkan tangan di dada: semua benda diam selama 7 detik.
